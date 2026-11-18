@@ -3,7 +3,7 @@
 
 ### Standardanwendung
 
-µ-law (auch u-law oder PCMU) ist ein Kompandierungsverfahren im Sprachcodec ITU-T G.711 für die digitale Telefonie und VoIP. Es komprimiert lineare 14-Bit-PCM-Abtastwerte logarithmisch auf 8 Bit pro Sample bei einer Abtastrate von 8 kHz. µ-law verwendet den Container .au.
+µ-law (auch u-law oder PCMU) ist ein Kompandierungsverfahren im Sprachcodec ITU-T G.711 für die digitale Telefonie und VoIP. Es komprimiert lineare PCM-Abtastwerte logarithmisch auf 8 Bit pro Sample bei einer Abtastrate von 8 kHz. µ-law verwendet den Container .au.
 
 Anwendung für High Quality Stereo Audio
 
@@ -11,7 +11,7 @@ Man kann bei ulaw auch höhre Abtastraten encodieren. Wie bei CD Qualität kann 
 
 Erfahrung Hörerlebis.
 
-Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. ABX Tests haben praktisch keine Unterscheitbarkeit gezeigt. 
+Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. Meine ABX Tests haben praktisch keine Unterscheitbarkeit gezeigt. 
 
 Fragen, Feedback und Ergebnisse von Hörtests sind willkommen! Erstelle bei Bedarf gerne ein Issue.
 
@@ -19,7 +19,7 @@ Fragen, Feedback und Ergebnisse von Hörtests sind willkommen! Erstelle bei Beda
 
 ### Standard Application
 
-µ-law (also written as u-law or PCMU) is a companding method used in the ITU-T G.711 speech codec for digital telephony and VoIP. It logarithmically compresses 14-bit linear PCM samples down to 8 bits per sample, using a sampling rate of 8 kHz. µ-law utilizes the .au file container.
+µ-law (also written as u-law or PCMU) is a companding method used in the ITU-T G.711 speech codec for digital telephony and VoIP. It logarithmically compresses linear PCM samples down to 8 bits per sample, using a sampling rate of 8 kHz. µ-law utilizes the .au file container.
 
 Application for High-Quality Stereo Audio
 
@@ -27,7 +27,7 @@ It is also possible to encode at higher sampling rates using µ-law—for instan
 
 Listening Experience
 
-During standard listening, virtually no negative effects were perceptible. The listening experience remains essentially unimpaired; ABX tests have shown that the formats are practically indistinguishable.
+During standard listening, virtually no negative effects were perceptible. The listening experience remains essentially unimpaired; my ABX tests have shown that the formats are practically indistinguishable.
 
 Questions, feedback, and listening test results are welcome! Feel free to open an issue.
 
