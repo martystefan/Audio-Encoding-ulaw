@@ -33,4 +33,4 @@ Encoding mit ffmpeg
 
 Encoding with FFmpeg
 
-ffmpeg -i "input.wav" -c:a pcm_mulaw -ar 44100 -ac 2  "output.au"
+```ffmpeg -i "input.wav" -c:a pcm_mulaw -ar 44100 -ac 2  "output.au"```
