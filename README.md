@@ -3,15 +3,15 @@
 
 ### Standardanwendung
 
-µ-law (auch u-law oder PCMU) ist ein Kompandierungsverfahren im Sprachcodec ITU-T G.711 für die digitale Telefonie und VoIP. Es komprimiert lineare PCM-Abtastwerte logarithmisch auf 8 Bit pro Sample bei einer Abtastrate von 8 kHz. µ-law verwendet den Container .au.
+µ-law (auch u-law oder PCMU) ist ein Kompandierungsverfahren im Sprachcodec ITU-T G.711 für die digitale Telefonie und VoIP. Es komprimiert lineare PCM-Abtastwerte logarithmisch auf 8 Bit pro Sample bei einer Abtastrate von 8 kHz. µ-law kann den Container .au verwenden.
 
 Anwendung für High Quality Stereo Audio
 
-Man kann bei ulaw auch höhre Abtastraten encodieren. Wie bei CD Qualität kann man eine Abtastrate von 44.1 khz verwenden. Damit bleiben die Höhen erhalten bei Musikstücken. Es werden dabei Abtastwerte von 8 bit logarithmisch verwendet. Das bedeutet das im vergleich zum Standard CD PCM 16bit, 44.1khz eine Halbierung der Dateigrösse resultiert. CD Bitrate 1,411kbps, ulaw 705kbps.
+Man kann bei ulaw auch höhere Abtastraten encodieren. Wie bei CD Qualität kann man eine Abtastrate von 44.1 khz verwenden. Damit bleiben die Höhen erhalten bei Musikstücken. Es werden dabei Abtastwerte von 8 bit logarithmisch verwendet. Das bedeutet das im vergleich zum Standard CD PCM 16bit, 44.1khz eine Halbierung der Dateigrösse resultiert. CD Bitrate 1,411kbps, ulaw 705kbps.
 
-Erfahrung Hörerlebis.
+Erfahrung Hörerlebnis.
 
-Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. Meine ABX Tests haben praktisch keine Unterscheitbarkeit gezeigt. 
+Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. Meine ABX Tests haben praktisch keine Unterscheidbarkeit gezeigt. 
 
 Fragen, Feedback und Ergebnisse von Hörtests sind willkommen! Erstelle bei Bedarf gerne ein Issue.
 
@@ -19,7 +19,7 @@ Fragen, Feedback und Ergebnisse von Hörtests sind willkommen! Erstelle bei Beda
 
 ### Standard Application
 
-µ-law (also written as u-law or PCMU) is a companding method used in the ITU-T G.711 speech codec for digital telephony and VoIP. It logarithmically compresses linear PCM samples down to 8 bits per sample, using a sampling rate of 8 kHz. µ-law utilizes the .au file container.
+µ-law (also written as u-law or PCMU) is a companding method used in the ITU-T G.711 speech codec for digital telephony and VoIP. It logarithmically compresses linear PCM samples down to 8 bits per sample, using a sampling rate of 8 kHz. µ-law can use the .au container.
 
 Application for High-Quality Stereo Audio
 
