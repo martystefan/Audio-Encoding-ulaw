@@ -41,8 +41,8 @@ Encoding with FFmpeg
 
 Supported Players
 
-footbar2000
-VLC
-Windows Media Player
+footbar2000<br>
+VLC<br>
+Windows Media Player<br>
 
 
