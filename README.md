@@ -7,5 +7,5 @@ Standardanwendung
 
 Anwendung für High Quality Audio
 
-Man kann bei ulaw auch höhre Abtastraten encodieren. Wie bei CD Qualität kann man eine Abtastrate von 44.1 khz verwenden. Damit bleiben die Höhen erhalten. 
+Man kann bei ulaw auch höhre Abtastraten encodieren. Wie bei CD Qualität kann man eine Abtastrate von 44.1 khz verwenden. Damit bleiben die Höhen erhalten. Es werden dabei Abtastwerte von 8 bit logarithmisch verwendet. Das bedeutet das im 
 
