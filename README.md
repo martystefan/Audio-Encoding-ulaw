@@ -7,7 +7,7 @@
 
 ### Anwendung für High Quality Stereo Audio
 
-Man kann bei ulaw auch höhere Abtastraten encodieren. Wie bei CD Qualität kann man eine Abtastrate von 44.1 khz verwenden. Damit bleiben die Höhen erhalten bei Musikstücken. Es werden dabei Abtastwerte von 8 bit logarithmisch verwendet. Das bedeutet das im vergleich zum Standard CD PCM 16bit, 44.1khz eine Halbierung der Dateigrösse resultiert. CD Bitrate 1,411kbps, ulaw 705kbps.
+Man kann bei ulaw auch höhere Abtastraten encodieren. Wie bei CD Qualität kann man eine Abtastrate von 44.1 khz verwenden. Damit bleiben die Höhen erhalten bei Musikstücken. Es werden dabei Abtastwerte von 8 bit logarithmisch verwendet. Das bedeutet das im Vergleich zum Standard CD PCM 16bit, 44.1khz eine Halbierung der Dateigrösse resultiert. CD Bitrate 1,411kbps, ulaw 705kbps.
 
 ### Erfahrung Hörerlebnis
 
