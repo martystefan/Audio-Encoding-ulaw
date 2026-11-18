@@ -13,6 +13,8 @@ Erfahrung Hörerlebis.
 
 Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. ABX Tests haben praktisch keine Unterscheitbarkeit gezeigt. 
 
+Fragen, Feedback und Ergebnisse von Hörtests sind willkommen! Erstelle bei Bedarf gerne ein Issue.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Standard Application
@@ -26,6 +28,8 @@ It is also possible to encode at higher sampling rates using µ-law—for instan
 Listening Experience
 
 During standard listening, virtually no negative effects were perceptible. The listening experience remains essentially unimpaired; ABX tests have shown that the formats are practically indistinguishable.
+
+Questions, feedback, and listening test results are welcome! Feel free to open an issue
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
