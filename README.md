@@ -30,4 +30,5 @@ During standard listening, virtually no negative effects were perceptible. The l
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Encoding mit ffmpeg, Beispiel folgt
+
 Encoding with FFmpeg; example to follow
