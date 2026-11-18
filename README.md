@@ -29,6 +29,8 @@ During standard listening, virtually no negative effects were perceptible. The l
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Encoding mit ffmpeg, Beispiel folgt
+Encoding mit ffmpeg
 
-Encoding with FFmpeg; example to follow
+Encoding with FFmpeg
+
+ffmpeg -i "input.wav" -c:a pcm_mulaw -ar 44100 -ac 2  "output.au"
