@@ -13,3 +13,21 @@ Erfahrung Hörerlebis.
 
 Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. ABX Tests haben praktisch keine Unterscheitbarkeit gezeigt. 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Standard Application
+
+µ-law (also written as u-law or PCMU) is a companding method used in the ITU-T G.711 speech codec for digital telephony and VoIP. It logarithmically compresses 14-bit linear PCM samples down to 8 bits per sample, using a sampling rate of 8 kHz. µ-law utilizes the .au file container.
+
+Application for High-Quality Audio
+
+It is also possible to encode at higher sampling rates using µ-law—for instance, a sampling rate of 44.1 kHz, which is equivalent to CD quality. This preserves the high-frequency content in musical tracks. The process employs 8-bit logarithmic sampling, which results in a file size half that of standard 16-bit, 44.1 kHz CD-quality PCM. (CD bitrate: 1,411 kbps; µ-law: 705 kbps.)
+
+Listening Experience
+
+During standard listening, virtually no negative effects were perceptible. The listening experience remains essentially unimpaired; ABX tests have shown that the formats are practically indistinguishable.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Encoding mit ffmpeg, Beispiel folgt
+Encoding with FFmpeg; example to follow
