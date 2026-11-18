@@ -11,5 +11,5 @@ Man kann bei ulaw auch höhre Abtastraten encodieren. Wie bei CD Qualität kann 
 
 Erfahrung Hörerlebis.
 
-Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. ABX Test haben praktisch keine Unterscheitbarkeit gezeigt. 
+Beim normalen hören sind kaum negative Effekte feststellbar gewesen. Der Hörgenuss ist praktisch nicht eingeschränkt. ABX Tests haben praktisch keine Unterscheitbarkeit gezeigt. 
 
