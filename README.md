@@ -1,4 +1,4 @@
-# Audio-Encoding_ulaw
+# Audio-Encoding-ulaw
 ## Audio Encoding ulaw High Quality
 
 ### Standardanwendung
